@@ -1,2 +1,8 @@
 # metis_proj_2_luther
-Web Scraping and Linear Regression Using LinkedIn Profile
+Predict Chicago's Daily Crime Using Weather Data
+
+Notable Packages Used
+* Linear Regression
+* RandomizedSearchCV
+* Selenium
+* BeautifulSoup
