@@ -1,5 +1,5 @@
 # metis_proj_2_luther
-Predict Chicago's Daily Crime Using Weather Data
+Web Scrape Weather Data (~10 year worth data) to combine it with Chicago's Daily Crime to Predict Chicago's Daily Crime Rate
 
 Notable Packages Used
 * Linear Regression
