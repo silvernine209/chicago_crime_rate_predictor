@@ -46,4 +46,4 @@ Below is actual vs predicted and residual plot of ElasticNet model that had the 
 ## Conclusion
 This project was all about identifying the right dataset to take advantage of highly explainable linear regression models. Even though my model was able to perform very well with R^2 score of 0.82 on the test set, further investigation is needed to validate the process and measures taken in this project. For future expansion, I would like to add more data such as average income, population density, and etc.
 
-[Link to Blog](https://silvernine209.github.io/matthewlee.github.io/)
+## [Link to Blog](https://silvernine209.github.io/matthewlee.github.io/)
