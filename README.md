@@ -30,7 +30,7 @@ Project initially started with only using weather data (temperature, humidity, p
 * **Weather Description** - Clear/Foggy/Overcast/etc..
 * **Day of Week** - (Mon - Sun) More crimes on weekends?
 * **Month of the Year** - Some crimes are seasonal (pick-pocketing in NYC during Christmas and such)
-* **Total Rideds** - Bus/Subway/etc. More people = more crime
+* **Total Riders** - Bus/Subway/etc. More people = more crime
 * **Unemployment Rate** - Some resort to crimes
 
 ## Model 
